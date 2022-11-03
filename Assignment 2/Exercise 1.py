@@ -15,7 +15,7 @@ for i in range(len(a)):
 
 
 print('every element of the third column is ')
-for i in range(a[2].size):
+for i in range(a.size):
     print(a[i,2])
     
     
